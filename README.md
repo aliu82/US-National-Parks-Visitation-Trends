@@ -3,4 +3,4 @@ Streamlit app that allows the user to analyze United States national parks visit
 
 The data for this study was obtained from the National Park Service at https://irma.nps.gov/Stats/Reports/National.
 
-Deployed Streamlit Application:
+Deployed Streamlit Application: https://aliu82-us-national-parks-visitation-trends.streamlit.app/
